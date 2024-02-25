@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bursa Sanayi Haritası oluşturmaya çalıştım fakat linkler konusunda sıkıntı yaşadığımı belirtmek isterim. Excell dosyalarından verileri çekemedim. Denedim fakat artık kelimenin tam anlamıyla beynim yandı. Umarım projenin ana fikrini yansıtabilmişimdir. Src de dosya oluştururken de kafa karışıklığı olmasın diye videolardan gördüğüm şekilde isimlendirdim TaskForm şeklinde. Temel Yazılım Akademisinde çok yol kattım sıfırdan. Şimdiden çok teşekkür ederim :) 
